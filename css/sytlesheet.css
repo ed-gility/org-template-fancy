@@ -1,0 +1,34 @@
+/* not yet needed */
+.jumbotron {
+  margin: 0px;
+}
+.page-header {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+hr {
+  margin: 0px;
+  padding: 0px;
+}
+div.container.tabs {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #3399ff;
+}
+div.column {
+  padding: 15px;
+}
+div.row {
+  margin: 0px;
+  /*padding: 0px;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+footer > hr {
+  margin-top: 10px;
+}
